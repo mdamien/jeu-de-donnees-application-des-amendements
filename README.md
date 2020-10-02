@@ -23,6 +23,12 @@ Prenon l'exemple du dossier `14-transparence_vie_publique_pjl__04_1erelecture_se
 >
 >II. - À la fin de l'article 4 de la loi n° 62-1292 du 6 novembre 1962, la référence : "loi n° 2011-1977 du 28 décembre 2011 de finances pour 2012" est remplacée par la référence : "loi organique n° du relative à la transparence de la vie publique".
 
+## Benchmark
+
+| Algorithme        | Score   |
+|-------------------|---------|
+| (supprime articles)[https://github.com/mdamien/demonstration-benchmark-application-des-amendements/blob/main/benchmark-suppression-simple.py] | 16.95 % |
+
 ## Source
 
 Les données viennent de https://www.lafabriquedelaloi.fr/, de https://www.nosdeputes.fr/ et de https://www.nossenateurs.fr/, les données sont donc sous [licence ODbL](https://vvlibri.org/fr/licence/odbl-10/legalcode/unofficial).
