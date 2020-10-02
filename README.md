@@ -35,7 +35,7 @@ Les données viennent de https://www.lafabriquedelaloi.fr/, de https://www.nosde
 
 ## Projets connexes
 
-- https://git.en-root.org/Seb35/duralex-tests/
+- https://git.en-root.org/Seb35/duralex-tests
 - https://git.en-root.org/Seb35/duralex-js
 - https://github.com/Legilibre/DuraLex
 - https://git.en-root.org/Seb35/metslesliens
