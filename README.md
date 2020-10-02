@@ -27,7 +27,7 @@ Prenon l'exemple du dossier `14-transparence_vie_publique_pjl__04_1erelecture_se
 
 | Algorithme        | Score   |
 |-------------------|---------|
-| (supprime articles)[https://github.com/mdamien/demonstration-benchmark-application-des-amendements/blob/main/benchmark-suppression-simple.py] | 16.95 % |
+| [supprime articles](https://github.com/mdamien/demonstration-benchmark-application-des-amendements/blob/main/benchmark-suppression-simple.py) | 16.95 % |
 
 ## Source
 
