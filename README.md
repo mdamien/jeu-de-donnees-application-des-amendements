@@ -3,7 +3,7 @@ Jeu de données afin de faire un logiciel qui applique automatiquement les amend
 
 Ce jeu de données contient des articles de loi avant l'application des amendements adoptés sur l'article, les amendements adoptés et l'article ainsi modifié par les amendements.
 
-Prenon l'exemple du dossier `14-transparence_vie_publique_pjl__04_1erelecture_senat_commission__4_bis`:
+Prenons l'exemple du dossier `14-transparence_vie_publique_pjl__04_1erelecture_senat_commission__4_bis`:
 
 `article_avant` contient:
 
