@@ -1,5 +1,5 @@
 # Jeu de données: application des amendements
-Jeu de données afin de faire un logiciel qui applique automatiquement les amendements
+*Jeu de données afin de faire un logiciel qui applique automatiquement les amendements*
 
 Ce jeu de données contient des articles de loi avant l'application des amendements adoptés sur l'article, les amendements adoptés et l'article ainsi modifié par les amendements.
 
