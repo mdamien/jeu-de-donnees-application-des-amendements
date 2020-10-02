@@ -31,7 +31,7 @@ Les données viennent de https://www.lafabriquedelaloi.fr/, de https://www.nosde
 
 - La détection des amendements identiques n'est pas parfaite, il peut donc y avoir des amendements identiques
 - Si plusieurs comissions ont été saisies, les amendements d'une commission saisie pour avis peuvent se retrouver dans les amendements alors qu'ils n'ont aucun effet
-- Les amendements étant à la base du HTML, je les ai transformés en markdown pour les rendre plus lisible mais cette transformation peut ajouter des erreurs comme des "_" intenpestifs.
+- Les amendements étant à la base du HTML, je les ai transformés en markdown pour les rendre plus lisible mais cette transformation peut ajouter des erreurs comme des "_" intempestifs.
 
 ## Projets connexes
 
