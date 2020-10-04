@@ -25,9 +25,10 @@ Prenons l'exemple du dossier `14-transparence_vie_publique_pjl__04_1erelecture_s
 
 ## Benchmark
 
-| Algorithme        | Score   |
-|-------------------|---------|
-| [supprime articles](https://github.com/mdamien/demonstration-benchmark-application-des-amendements/blob/main/benchmark-suppression-simple.py) | 16.95 % |
+| Algorithme        | Score   | Precision |
+|-------------------|---------|-----------|
+| [supprime articles](https://github.com/mdamien/demonstration-benchmark-application-des-amendements/blob/main/benchmark-suppression-simple.py) | 16.95 % | 16.95 % |
+| [supprime articles quand amendement de suppression](https://github.com/mdamien/demonstration-benchmark-application-des-amendements/blob/main/benchmark-suppression-et-remplacement-precis.py) | 16.27 % | 71.64 % |
 
 ## Source
 
